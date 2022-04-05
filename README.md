@@ -15,7 +15,7 @@ Afterwards, close your Isabelle IDE.
 1. Move the `MyDarkMode.jedit-scheme` file into `~/.isabelle/Isabelle20__/jedit/schemes/`. Create the folder if it is missing. After reopening Isabelle, select the scheme in `Plugins > Editor Scheme > Scheme Selector`.
 
 ## Step 3: Finetuning
-Some settings may still need to be adjusted. This can be done in `Plugins > Plugin Options > Isabelle > Rendering`.
+Some settings may still need to be adjusted. This can be done in `Plugins > Plugin Options > Isabelle > Rendering` (isabelle-specific colors) and `Utilities > Global Options > jEdit > {Gutter, Text Area}`. The colors set in the `jEdit` entries can be saved in your EditorScheme (`Plugins > Editor Scheme > Scheme Selector > Update`).
 
 # Contact
-If some color makes code unreadable or you have some suggestions or other proposals for color themes, feel free to send a mail to [bruderjakob17@gmail.com](mailto:bruderjakob17@gmail.com).
+If some color makes code unreadable or you have some suggestions or other proposals for color themes, feel free to send them to [bruderjakob17@gmail.com](mailto:bruderjakob17@gmail.com) or open an Issue/PR.
