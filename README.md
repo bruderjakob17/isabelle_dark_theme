@@ -1,6 +1,8 @@
 # isabelle_dark_theme
 EditorSchemes and preferences for dark themes in Isabelle/jEdit.
 
+![Screenshot of Isabelle with applied dark theme](screenshot.png)
+
 ## Requirements
 You need to have the `EditorScheme`, `LookAndFeel` and `FlatLaf` plugin installed. To do this, just go to `Plugins > Plugin Manager > Install`.
 
